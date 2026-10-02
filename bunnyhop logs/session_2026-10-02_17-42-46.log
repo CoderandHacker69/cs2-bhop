@@ -1,0 +1,20 @@
+Bhop Script 2.2.0-beta session started: 2026-10-02 17:42:46
+[17:42:47]  Ready. Start CS2, then click Start & Attach.
+[17:42:47]  Session log: session_2026-10-02_17-42-46.log
+[17:42:47]  Settings loaded: bhop_settings.json (Default preset).
+[17:42:59]  Looking for cs2.exe…
+[17:42:59]  Attached to cs2.exe (PID 66860).
+[17:42:59]  client.dll found at 0x7ff872be0000.
+[17:43:32]  Fetching live offsets from sezzyaep/CS2-OFFSETS…
+[17:43:32]  No C++ compiler found on PATH (tried cl, g++, clang++).
+[17:43:32]  offsets refreshed — 3 value(s), 2 C++ field(s), 2 Python constant(s)
+[17:43:32]  C++ rebuild: no C++ toolchain detected — sources updated only
+[17:43:32]    build error: no toolchain
+[17:43:35]  No newer stable release found.
+[17:43:36]  Fetching live offsets from sezzyaep/CS2-OFFSETS…
+[17:43:37]  No C++ compiler found on PATH (tried cl, g++, clang++).
+[17:43:37]  offsets refreshed — 3 value(s), 0 C++ field(s), 0 Python constant(s)
+[17:43:37]  C++ rebuild: no C++ toolchain detected — sources updated only
+[17:43:37]    build error: no toolchain
+[17:45:01]  Clean shutdown requested.
+[17:45:01]  Session ended cleanly.

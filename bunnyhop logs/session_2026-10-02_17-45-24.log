@@ -1,0 +1,9 @@
+Bhop Script 2.2.0-beta session started: 2026-10-02 17:45:24
+[17:45:25]  Ready. Start CS2, then click Start & Attach.
+[17:45:25]  Session log: session_2026-10-02_17-45-24.log
+[17:45:25]  Settings loaded: bhop_settings.json (Default preset).
+[17:45:37]  Looking for cs2.exe…
+[17:45:37]  Attached to cs2.exe (PID 66860).
+[17:45:37]  client.dll found at 0x7ff872be0000.
+[17:46:08]  Bhop turned off by keybind.
+[17:46:16]  Bhop turned on by keybind.
